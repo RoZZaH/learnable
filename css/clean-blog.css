@@ -398,3 +398,8 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
+
+.site-heading {
+  color: #ff0000;
+  border: 1px dashed red;
+}
